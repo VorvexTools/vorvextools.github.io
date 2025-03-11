@@ -2,10 +2,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>VorvexTools | Unity Asset Creator</title>
-    <style>
         body { font-family: Arial, sans-serif; text-align: center; margin: 40px; }
         img { max-width: 100%; height: auto; }
         .container { max-width: 800px; margin: auto; }
