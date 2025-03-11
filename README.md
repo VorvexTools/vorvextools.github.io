@@ -2,10 +2,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-        body { font-family: Arial, sans-serif; text-align: center; margin: 40px; }
-        img { max-width: 100%; height: auto; }
-        .container { max-width: 800px; margin: auto; }
-    </style>
 </head>
 <body>
     <div class="container">
