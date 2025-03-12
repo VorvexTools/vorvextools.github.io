@@ -9,7 +9,9 @@
         <p>Creating high-quality textures, models, and tools for Unity developers.</p>
         <h2>Our Assets</h2>
         <p><a href="https://assetstore.unity.com/publisher/yourpublisherid" target="_blank">View on Unity Asset Store</a></p>
+        <p>Texture Mixer</p>
         <img src="Screenshot (1005).png" alt="Asset Preview">
+        <p>A Unity tool for generating layered textures with blending, transformations, procedural effects, and 3D preview. Export textures, maps, and materials to enhance your workflow.</p>
         <h2>Contact</h2>
         <p>Email: your-email@example.com</p>
     </div>
