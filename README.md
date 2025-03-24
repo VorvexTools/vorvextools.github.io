@@ -41,6 +41,7 @@
         <p><a href="https://assetstore.unity.com/packages/slug/313684" target="_blank">View Texture Mixer on Unity Asset Store</a></p>
         <h2>Contact</h2>
         <p>Email: vorvextools@gmail.com</p>
+        <p><a href="https://www.youtube.com/@VorvexTools" target="_blank">Youtube</a></p>
     </div>
 </body>
 </html>
